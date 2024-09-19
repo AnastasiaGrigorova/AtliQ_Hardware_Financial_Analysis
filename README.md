@@ -1,6 +1,10 @@
 # AtliQ_Hardware_Financial_Analysis
-AtliQ Hardware Sales&amp;Finance Report
+AtliQ Hardware Sales&amp;
+
+Finance Report
+
 Project goal:
+
 Conduct a financial analysis of the international hardware company AtlitQ. Research the
 company’s revenue, profit, and margin trends over the past few years to identify key
 performance drivers, market shifts, and opportunities for growth, using advanced data
